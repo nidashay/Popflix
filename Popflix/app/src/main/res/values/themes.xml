@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Popflix" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/popflix_background</item>
+        <item name="android:navigationBarColor">@color/popflix_background</item>
+        <item name="android:windowBackground">@color/popflix_background</item>
+        <item name="android:colorBackground">@color/popflix_background</item>
+    </style>
+    
+    <style name="Theme.Popflix.Splash" parent="Theme.Popflix">
+        <item name="android:windowBackground">@color/popflix_background</item>
+    </style>
+</resources>

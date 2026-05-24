@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Popflix Brand Colors -->
+    <color name="popflix_primary">#E50914</color>
+    <color name="popflix_secondary">#FF4757</color>
+    <color name="popflix_accent">#FF6B7A</color>
+    <color name="popflix_background">#0A0A0F</color>
+    <color name="popflix_surface">#14141F</color>
+    <color name="popflix_surface_variant">#1E1E2D</color>
+    <color name="popflix_error">#CF6679</color>
+    <color name="popflix_on_primary">#FFFFFF</color>
+    <color name="popflix_on_secondary">#FFFFFF</color>
+    <color name="popflix_on_background">#E0E0E0</color>
+    <color name="popflix_on_surface">#E0E0E0</color>
+    <color name="popflix_outline">#424252</color>
+    
+    <!-- Launcher background -->
+    <color name="ic_launcher_background">#1A1A2E</color>
+</resources>
